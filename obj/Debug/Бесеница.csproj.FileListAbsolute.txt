@@ -1,0 +1,29 @@
+C:\Users\STUDENTS\source\repos\Бесеница\bin\Debug\Бесеница.exe.config
+C:\Users\STUDENTS\source\repos\Бесеница\bin\Debug\Бесеница.exe
+C:\Users\STUDENTS\source\repos\Бесеница\bin\Debug\Бесеница.pdb
+C:\Users\STUDENTS\source\repos\Бесеница\obj\Debug\Бесеница.csprojAssemblyReference.cache
+C:\Users\STUDENTS\source\repos\Бесеница\obj\Debug\Бесеница.Form1.resources
+C:\Users\STUDENTS\source\repos\Бесеница\obj\Debug\Бесеница.Properties.Resources.resources
+C:\Users\STUDENTS\source\repos\Бесеница\obj\Debug\Бесеница.csproj.GenerateResource.cache
+C:\Users\STUDENTS\source\repos\Бесеница\obj\Debug\Бесеница.exe
+C:\Users\STUDENTS\source\repos\Бесеница\obj\Debug\Бесеница.pdb
+D:\Класове\10 клас\А\16\Бесеница\bin\Debug\Бесеница.exe.config
+D:\Класове\10 клас\А\16\Бесеница\bin\Debug\Бесеница.exe
+D:\Класове\10 клас\А\16\Бесеница\bin\Debug\Бесеница.pdb
+D:\Класове\10 клас\А\16\Бесеница\obj\Debug\Бесеница.csprojAssemblyReference.cache
+D:\Класове\10 клас\А\16\Бесеница\obj\Debug\Бесеница.Form1.resources
+D:\Класове\10 клас\А\16\Бесеница\obj\Debug\Бесеница.Properties.Resources.resources
+D:\Класове\10 клас\А\16\Бесеница\obj\Debug\Бесеница.csproj.GenerateResource.cache
+D:\Класове\10 клас\А\16\Бесеница\obj\Debug\Бесеница.exe
+D:\Класове\10 клас\А\16\Бесеница\obj\Debug\Бесеница.pdb
+D:\Programming\Бесеница\bin\Debug\Бесеница.exe.config
+D:\Programming\Бесеница\bin\Debug\Бесеница.exe
+D:\Programming\Бесеница\bin\Debug\Бесеница.pdb
+D:\Programming\Бесеница\obj\Debug\Бесеница.csproj.AssemblyReference.cache
+D:\Programming\Бесеница\obj\Debug\Бесеница.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Бесеница\obj\Debug\Бесеница.Form1.resources
+D:\Programming\Бесеница\obj\Debug\Бесеница.Properties.Resources.resources
+D:\Programming\Бесеница\obj\Debug\Бесеница.csproj.GenerateResource.cache
+D:\Programming\Бесеница\obj\Debug\Бесеница.csproj.CoreCompileInputs.cache
+D:\Programming\Бесеница\obj\Debug\Бесеница.exe
+D:\Programming\Бесеница\obj\Debug\Бесеница.pdb
